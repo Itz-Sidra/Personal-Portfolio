@@ -17,4 +17,4 @@ Welcome to my Personal Portfolio Webpage! This site is a simple showcase of my p
 
 ## Live Demo
 
-View the live site: ()
+View the live site: (https://itz-sidra.github.io/Personal-Portfolio/)
