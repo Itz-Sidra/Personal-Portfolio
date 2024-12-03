@@ -5,7 +5,7 @@
     --navbar-bg-color: #333;
     --navbar-text-color: #fff;
     --link-color: #0066cc;
-    --overlay-bg-color: rgba(0, 0, 0, 0.8);
+    --overlay-bg-color: rgba(247, 232, 232, 0.8);
 }
 
 /* Dark Mode Variables */
@@ -15,7 +15,7 @@
     --navbar-bg-color: #222;
     --navbar-text-color: #f0f0f0;
     --link-color: #66aaff;
-    --overlay-bg-color: rgba(255, 255, 255, 0.8);
+    --overlay-bg-color: rgba(44, 40, 40, 0.8);
 }
 
 /* Dark Mode Images */
